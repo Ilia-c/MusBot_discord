@@ -1,7 +1,11 @@
 # Музыкальный бот для Discord
 Внимание! Бот написан на коленке за пару дней и потому код немного сырой и могут присутствовать баги
 
-![image](https://user-images.githubusercontent.com/58953935/160655855-861d8fc7-c94f-481f-93ad-35c301727fa7.png)
+
+<div align="center">
+<img src=https://user-images.githubusercontent.com/58953935/160655855-861d8fc7-c94f-481f-93ad-35c301727fa7.png>
+<p>Главное меню</p>
+</div>
 
 # Возможности
 Бот умеет воспроизводить youtube ссылки, поддерживат как плей листы так и стримы. Так же есть возможность запуска локальных файлов расположенных в папке "Исполнители"
@@ -9,7 +13,10 @@
 
 Полный список комманд:
 
-![image](https://user-images.githubusercontent.com/58953935/160646372-86074e92-d99d-49dd-b6ea-32fa8bf0d5c9.png)
+<div align="center">
+<img src=https://user-images.githubusercontent.com/58953935/160646372-86074e92-d99d-49dd-b6ea-32fa8bf0d5c9.png>
+<p>Help</p>
+</div>
 
 # Запуск
 Для запуска потребуется Python 3.8 и выше, а так же потребуется установить FFmpeg.
