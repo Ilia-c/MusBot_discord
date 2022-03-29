@@ -14,7 +14,7 @@
 Полный список комманд:
 
 <div align="center">
-<img src=https://user-images.githubusercontent.com/58953935/160646372-86074e92-d99d-49dd-b6ea-32fa8bf0d5c9.png>
+<img src=https://user-images.githubusercontent.com/58953935/160659255-f778a14f-7d3c-4efa-b6be-c0fba43594a7.png>
 <p>Help</p>
 </div>
 
